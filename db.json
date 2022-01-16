@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 13",
+      "price": 1500,
+      "photoUrl": "apple13.jpg"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 12",
+      "price": 1200,
+      "photoUrl": "apple12.jpg"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 11",
+      "price": 800,
+      "photoUrl": "apple11.jpg"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 8",
+      "price": 600,
+      "photoUrl": "apple8.jpg"
+    },
+    {
+      "id": 5,
+      "name": "iPhone 7",
+      "price": 400,
+      "photoUrl": "apple7.jpg"
+    }
+  ],
+  "status": [
+    {
+      "id": 0,
+      "name": "Обработка"
+    },
+    {
+      "id": 1,
+      "name": "Подтвержден"
+    }
+  ],
+  "order": [
+    {
+      "statusId": 0,
+      "name": "iPhone 13",
+      "count": 2,
+      "id": 1
+    }
+  ]
+}
